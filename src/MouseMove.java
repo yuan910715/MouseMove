@@ -129,6 +129,12 @@ public class MouseMove implements Runnable {
             timelabel2.setFont(new Font("", 1, 30));
             timebutton1.setFont(new Font("", 1, 18));
             timebutton2.setFont(new Font("", 1, 18));
+            timebutton3.setFont(new Font("", 1, 12));
+            timebutton4.setFont(new Font("", 1, 12));
+            timebutton5.setFont(new Font("", 1, 12));
+            timebutton6.setFont(new Font("", 1, 12));
+            timebutton7.setFont(new Font("", 1, 12));
+            timebutton8.setFont(new Font("", 1, 12));
             add(timelabel1);
             add(timebutton1);
             add(timelabel2);
